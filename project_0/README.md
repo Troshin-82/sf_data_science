@@ -14,6 +14,7 @@
 [6. Вывод](https://github.com/Troshin-82/sf_data_science/blob/main/project_0/README.md#Вывод)
 
 ### Описание проекта.
+
 Угадать загаданное компьютером число за минимальное 
 число попыток.
 
@@ -53,7 +54,7 @@
 
 ## Результаты:
 
-.....
+Алгаритм угадывает число в среднем за 101 попытку.
 
 :arrow_up:[к оглавлению](https://github.com/Troshin-82/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
