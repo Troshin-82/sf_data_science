@@ -41,8 +41,26 @@
 
 Учимся писать хороший код.
 
-## Краткая информация о данных
+## Краткая информация о данных.
 .....
 
 :arrow_up:[к оглавлению](https://github.com/Troshin-82/sf_data_science/blob/main/project_0/README.md#Оглавление)
+
+## Этапы работы над проектом.
+.......
+
+:arrow_up:[к оглавлению](https://github.com/Troshin-82/sf_data_science/blob/main/project_0/README.md#Оглавление)
+
+## Результаты:
+
+.....
+
+:arrow_up:[к оглавлению](https://github.com/Troshin-82/sf_data_science/blob/main/project_0/README.md#Оглавление)
+
+## Вывод:
+
+.....
+
+:arrow_up:[к оглавлению](https://github.com/Troshin-82/sf_data_science/blob/main/project_0/README.md#Оглавление)
+
 
