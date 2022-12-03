@@ -1,9 +1,9 @@
 # sf_data_science
 SF homework
 
-## проекты
+## Проекты.
 
-*[Проект 0. Игра: угадай число] (_______)
+*[Проект 0. Игра: Угадай число](https://github.com/Troshin-82/sf_data_science/tree/main/project_0)
 
 *[Проект 1._____________](_______)
 
